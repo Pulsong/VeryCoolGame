@@ -15,9 +15,9 @@ TagManager:
   - Water
   - UI
   - noselfcollision
-  - 
-  - 
-  - 
+  - PlayerLayer
+  - Throw
+  - Post prosessing
   - 
   - 
   - 

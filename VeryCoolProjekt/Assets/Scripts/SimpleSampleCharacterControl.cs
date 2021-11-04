@@ -216,7 +216,7 @@ public class SimpleSampleCharacterControl : MonoBehaviour
         if (!m_isGrounded && m_wasGrounded)
         {
             m_animator.SetTrigger("Jump");
-            FindObjectOfType<AudioManager>().Play("jumpSound");
+
         }
     }
 }
